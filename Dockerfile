@@ -7,7 +7,7 @@ LABEL name="Test_App" \
       vendor="RH_Ak" \
       version="1.0" \
       release="1" \
-      run='docker run -d -p 8080:80 --name=testweb testwebserver' \
+      run='docker run -d -p 8080:80 --name=testweb RH_Test' \
       summary="Test App" \
       description="It will show Date" \
 
