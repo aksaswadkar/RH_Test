@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-hello-world",
+  "name": "hello-world",
   "version": "0.0.1",
   "description": "Node.js Hello World for OpenShift 3",
   "main": "helloworld.js", 1
